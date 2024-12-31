@@ -1,4 +1,4 @@
-import { Users, UserMinus, Groups, Filter } from "lucide-react";
+import { Users, UserMinus, Group, Filter } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { StatsCard } from "./stats-card";
