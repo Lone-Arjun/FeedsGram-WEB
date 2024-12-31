@@ -19,7 +19,7 @@ export function StatsOverview({ data, isLoading }: StatsOverviewProps) {
     {
       title: "Total Groups",
       value: data?.totalGroups || 0,
-      icon: Groups,
+      icon: Group,
       description: "Groups where the bot is active"
     },
     {
